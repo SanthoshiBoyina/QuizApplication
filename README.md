@@ -7,6 +7,7 @@ This application consists of 10 questions and each question is provided with 4 o
 -----------
 
 
+
 Initial Frame
 -----------
 ![2023-01-07 (11)](https://user-images.githubusercontent.com/83487694/211129593-f1fa6df5-3d2b-4e1e-b0f7-558b9ddf7341.png)
@@ -19,9 +20,11 @@ Rules Frame
 
 
 
+
 Questions Frame
 -----------
 ![2023-01-07 (12)](https://user-images.githubusercontent.com/83487694/211129624-2a8a94f0-c55c-42c8-9bc2-0b4cfd171065.png)
+
 
 
 
@@ -31,9 +34,11 @@ Questions Frame
 
 
 
+
 15 seconds Timer
 -----------
 ![2023-01-07 (14)](https://user-images.githubusercontent.com/83487694/211129846-7aa92071-67fc-4ae1-a114-ceac89fd5c94.png)
+
 
 
 
